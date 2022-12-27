@@ -6,3 +6,11 @@ body {
     font-size: 1.3rem;
     padding: 70px;
 }
+
+button {
+    padding: 0.8rem;
+    border: 1px solid #f30a77;
+    color: #f30a77;
+    font-weight: 700;
+    border-radius: 5px ;
+}

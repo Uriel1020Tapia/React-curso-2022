@@ -1,1 +1,4 @@
-asdasdasd
+-yarn create myApp
+-yarn run dev
+
+-yarn add prop-types
